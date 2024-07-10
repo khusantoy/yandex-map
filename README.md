@@ -2,6 +2,10 @@
 
 Yandex map UI
 
+
+https://github.com/khusantoy/yandex-map/assets/119614237/c5e9b8b4-b6db-44ae-a8ae-a404f7a36182
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
